@@ -1,0 +1,34 @@
+<svg width="1100" height="430" viewBox="0 0 1100 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Document AI Lab workflow</title>
+  <desc id="desc">A high-level document processing workflow from scan to structured record.</desc>
+  <rect width="1100" height="430" rx="18" fill="#0F172A"/>
+  <text x="54" y="72" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="800">Document AI Lab</text>
+  <text x="54" y="108" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="18">OCR, preprocessing, extraction, validation, and searchable records</text>
+  <g font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">
+    <rect x="56" y="170" width="145" height="86" rx="14" fill="#1E293B" stroke="#38BDF8"/>
+    <text x="88" y="205" fill="#E0F2FE">Scan / PDF</text>
+    <text x="91" y="230" fill="#94A3B8" font-size="13">raw input</text>
+    <path d="M216 213H270" stroke="#64748B" stroke-width="3" stroke-linecap="round"/>
+    <path d="M260 201L272 213L260 225" stroke="#64748B" stroke-width="3" stroke-linecap="round"/>
+    <rect x="286" y="170" width="145" height="86" rx="14" fill="#1E293B" stroke="#A78BFA"/>
+    <text x="320" y="205" fill="#F5F3FF">Preprocess</text>
+    <text x="319" y="230" fill="#94A3B8" font-size="13">clean image</text>
+    <path d="M446 213H500" stroke="#64748B" stroke-width="3" stroke-linecap="round"/>
+    <path d="M490 201L502 213L490 225" stroke="#64748B" stroke-width="3" stroke-linecap="round"/>
+    <rect x="516" y="170" width="145" height="86" rx="14" fill="#1E293B" stroke="#22C55E"/>
+    <text x="564" y="205" fill="#DCFCE7">OCR</text>
+    <text x="540" y="230" fill="#94A3B8" font-size="13">text output</text>
+    <path d="M676 213H730" stroke="#64748B" stroke-width="3" stroke-linecap="round"/>
+    <path d="M720 201L732 213L720 225" stroke="#64748B" stroke-width="3" stroke-linecap="round"/>
+    <rect x="746" y="170" width="145" height="86" rx="14" fill="#1E293B" stroke="#FBBF24"/>
+    <text x="787" y="205" fill="#FEF3C7">Extract</text>
+    <text x="777" y="230" fill="#94A3B8" font-size="13">fields / JSON</text>
+    <path d="M906 213H960" stroke="#64748B" stroke-width="3" stroke-linecap="round"/>
+    <path d="M950 201L962 213L950 225" stroke="#64748B" stroke-width="3" stroke-linecap="round"/>
+    <rect x="976" y="170" width="70" height="86" rx="14" fill="#1E293B" stroke="#FB7185"/>
+    <text x="990" y="205" fill="#FFE4E6">Store</text>
+    <text x="992" y="230" fill="#94A3B8" font-size="13">index</text>
+  </g>
+  <rect x="56" y="310" width="990" height="56" rx="12" fill="#111827" stroke="#334155"/>
+  <text x="84" y="344" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="16">Current artifact: receipt OCR post-processing CLI that turns noisy text into a normalized JSON summary.</text>
+</svg>

@@ -2,6 +2,8 @@
 
 OCR, preprocessing, and document workflow experiments.
 
+![Document AI workflow](assets/document-workflow.svg)
+
 ## Purpose
 
 This repository collects practical experiments around scanned documents, image preprocessing, OCR quality, text extraction, and post-processing workflows.
