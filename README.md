@@ -39,6 +39,16 @@ docs/          workflow notes and diagrams
 - add OCR comparison notes;
 - add document field extraction prototype.
 
+## Working Artifact
+
+Run the first post-processing example:
+
+```bash
+python3 scripts/receipt_ocr_postprocess.py examples/sample_receipt.txt
+```
+
+It extracts a normalized receipt summary from noisy OCR-like text.
+
 ## Status
 
-Planned public lab.
+Early lab with a working text extraction example.

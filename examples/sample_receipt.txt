@@ -1,0 +1,10 @@
+NORTH MARKET
+Receipt 00419
+Date: 18/05/2026
+
+Coffee beans             12.90
+Oat milk                  3.50
+Notebook                  4.20
+
+TOTAL: 20.60
+Paid by card
